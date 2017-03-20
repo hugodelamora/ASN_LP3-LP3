@@ -1,0 +1,6 @@
+cd C:\Users\xxx..\ASN\PRACTICAS\ASN_LP3-LP3\dist\
+
+java -Djava.library.path="C:\opencv32\build\java\x86" -jar dist/ASN_HW3.jar -add
+
+java -Djava.library.path="C:\opencv32\build\java\x86" -jar dist/ASN_HW3.jar
+
